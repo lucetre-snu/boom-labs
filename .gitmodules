@@ -1,3 +1,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = git@github.com:rust-lang/rustlings.git
+[submodule "rust-basic"]
+	path = rust-basic
+	url = git@github.com:boomlabs-web3/rust-basic.git

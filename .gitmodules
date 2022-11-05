@@ -4,3 +4,6 @@
 [submodule "rust-basic"]
 	path = rust-basic
 	url = git@github.com:boomlabs-web3/rust-basic.git
+[submodule "anchor"]
+	path = anchor
+	url = git@github.com:coral-xyz/anchor.git
